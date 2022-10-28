@@ -9,3 +9,8 @@
 
 Cette application est composé d'un serveur qui propose un service d’évaluation d’expressions arithmétiques. </br>
 Par exemple, si le client envoie la requête “(1+4)*5”, le serveur évalue cette expression et retourne le résultat 25 au client concerné.
+
+
+ ![](ressources/pipe1.jpg)
+ ![](ressources/pipe2.png)
+
